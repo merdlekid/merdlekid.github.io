@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
+# Blackstar Literature
 
-Maybe say a some things about yourself.
+*Nothing more than the collection of words and thoughts of Marshall Cain*
 
-Or maybe what you plan to blog about.
+This will takeover for [Blackstarlit](https://blackstarlit.substack.com)
+
+## Table of Contents
+- Nothing Yet
