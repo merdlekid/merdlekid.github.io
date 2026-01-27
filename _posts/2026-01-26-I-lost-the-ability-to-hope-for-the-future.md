@@ -1,5 +1,5 @@
 ## In November 2024 I lost the ability to hope for the future (and so should you)  
-### By Marshall Cain on 1/26/2026
+###### Blog Post 
 
 I’m an American living in Canada. In late 2024 one of my office coworkers was a young Mexican man who took an interest in the US election cycle. Our conversations intrigued but frustrated me. He presented himself as a fan of diversity, art, freedom, someone you can agree with. Yet, when it came to Donald Trump, he was fascinated.
 
